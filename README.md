@@ -8,6 +8,7 @@
 -->
 
 [![Step 3, Merge your pull request](https://github.com/psantosh/skills-publish-packages/actions/workflows/3-merge-your-pull-request.yml/badge.svg)](https://github.com/psantosh/skills-publish-packages/actions/workflows/3-merge-your-pull-request.yml)
+[![Publish to Docker](https://github.com/psantosh/skills-publish-packages/actions/workflows/publish.yml/badge.svg)](https://github.com/psantosh/skills-publish-packages/actions/workflows/publish.yml)
 
 # Publish to GitHub Packages
 

@@ -7,6 +7,8 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
+[![Step 3, Merge your pull request](https://github.com/psantosh/skills-publish-packages/actions/workflows/3-merge-your-pull-request.yml/badge.svg)](https://github.com/psantosh/skills-publish-packages/actions/workflows/3-merge-your-pull-request.yml)
+
 # Publish to GitHub Packages
 
 _Use GitHub Actions to publish your project to a Docker image._
